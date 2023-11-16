@@ -43,6 +43,6 @@ This case study aims to identify patterns which indicate if a client has difficu
 # Solution
 Download the dataset from the link below.
 https://drive.google.com/open?id=16RQztUqCfJOlbooHqYlJrp6Q7iL65uZB
-
+Once download Completes
 So here we have the data sets which are of *.csv format, EDA solution file(.ipynb) and RiskAnalytcisBanking.pdf
 which describes the insights I discovered from this analysis.
